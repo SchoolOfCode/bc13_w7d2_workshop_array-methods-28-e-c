@@ -9,3 +9,9 @@ let queue = [
   "catHorse",
   "dogPig",
 ];
+
+queue.push("catHorse");
+
+queue.unshift("");
+
+

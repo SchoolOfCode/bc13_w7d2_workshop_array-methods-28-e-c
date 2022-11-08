@@ -12,3 +12,6 @@ let queue = [
 
 queue.push("catHorse");
 
+queue.unshift("");
+
+
